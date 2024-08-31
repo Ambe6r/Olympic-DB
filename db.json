@@ -146,51 +146,6 @@
             {"name": "Triathlon", "gold": 1, "silver": 0, "bronze": 1},
             {"name": "Volleyball", "gold": 1, "silver": 0, "bronze": 0}
         ]
-    },
-    {
-        "id": 6,
-        "sports":[
-            {"name": "3x3 Basketball", "gold": 1, "silver": 0, "bronze": 0},
-            {"name": "Artistic Swimming", "gold": 0, "silver": 0, "bronze": 1},
-            {"name": "Athletics", "gold": 2, "silver": 1, "bronze": 3},
-            {"name": "Cycling BMX Racing", "gold": 0, "silver": 1, "bronze": 0},
-            {"name": "Cycling Road", "gold": 0, "silver": 1, "bronze": 0},
-            {"name": "Cycling Track", "gold": 3, "silver": 1, "bronze": 1},
-            {"name": "Equestrian", "gold": 0, "silver": 0, "bronze": 1},
-            {"name": "Hockey", "gold": 2, "silver": 0, "bronze": 0},
-            {"name": "Marathon Swimming", "gold": 1, "silver": 0, "bronze": 0},
-            {"name": "Rowing", "gold": 4, "silver": 3, "bronze": 1},
-            {"name": "Sailing", "gold": 2, "silver": 0, "bronze": 2},
-            {"name": "Swimming", "gold": 0, "silver": 0, "bronze": 2},
-            {"name": "Water Polo", "gold": 0, "silver": 0, "bronze": 1}
-        ]
-    },
-    {
-        "id": 7,
-        "sports":[
-            {"name": "Artistic Gymnastics", "gold": 0, "silver": 0, "bronze": 2},
-            {"name": "Artistic Swimming", "gold": 0, "silver": 1, "bronze": 0},
-            {"name": "Athletics", "gold": 1, "silver": 4, "bronze": 5},
-            {"name": "Boxing", "gold": 0, "silver": 0, "bronze": 1},
-            {"name": "Canoe Slalom", "gold": 0, "silver": 2, "bronze": 2},
-            {"name": "Cycling BMX Freestyle", "gold": 0, "silver": 1, "bronze": 0},
-            {"name": "Cycling Mountain Bike", "gold": 1, "silver": 0, "bronze": 0},
-            {"name": "Cycling Road", "gold": 0, "silver": 1, "bronze": 0},
-            {"name": "Cycling Track", "gold": 1, "silver": 3, "bronze": 4},
-            {"name": "Diving", "gold": 0, "silver": 1, "bronze": 4},
-            {"name": "Equestrian", "gold": 2, "silver": 0, "bronze": 3},
-            {"name": "Golf", "gold": 0, "silver": 1, "bronze": 0},
-            {"name": "Rowing", "gold": 3, "silver": 2, "bronze": 3},
-            {"name": "Sailing", "gold": 1, "silver": 0, "bronze": 1},
-            {"name": "Shooting", "gold": 1, "silver": 1, "bronze": 0},
-            {"name": "Skateboarding", "gold": 0, "silver": 0, "bronze": 1},
-            {"name": "Sport Climbing", "gold": 1, "silver": 0, "bronze": 0},
-            {"name": "Swimming", "gold": 1, "silver": 4, "bronze": 0},
-            {"name": "Taekwondo", "gold": 0, "silver": 1, "bronze": 0},
-            {"name": "Trampoline Gymnastics", "gold": 1, "silver": 0, "bronze": 0},
-            {"name": "Triathlon", "gold": 1, "silver": 0, "bronze": 2},
-            {"name": "Weightlifting", "gold": 0, "silver": 0, "bronze": 1}
-        ]
     }
     ]
 }
